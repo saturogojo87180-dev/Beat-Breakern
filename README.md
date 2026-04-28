@@ -1,7 +1,7 @@
 🎧 VIJJU MUSIC BOT
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+  ![Banner](file_00000000ea7471fa93a0a0f7a5d35242.png)
 </p><p align="center">
   <b>🚀 Powerful • Fast • High Quality Music Bot for Discord</b>
 </p>---
